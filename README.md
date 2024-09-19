@@ -2,17 +2,19 @@
 Dentro de este proyecto por favor unicamente realizar acciones de lectura, no modificar ni crear, ya que es un proyecto que esta funcionando por usuarios reales
 
 Within this project, please only perform reading actions, do not modify or create, since it is a project that is being operated by real users.
--->
 
-<!--
 1.- pnpm i
 2.- create file .env in root
 3.- paste => VITE_APP_API_URL=https://system.mtsi.com.mx/api
 4.- pnpm run dev
+
+Access:
+email: edgarnj@icloud.com
+password: Hola2212*
 -->
 
-<!-- email: juan.buendia@mtssistem.com -->
-<!-- email: Hola2212* -->
+<!--  -->
+<!-- password: Hola2212* -->
 
 # React + TypeScript + Vite
 
